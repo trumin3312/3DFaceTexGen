@@ -32,6 +32,6 @@
 ## 데모
 1. 아래 링크에서 'checkpoints.zip'을 다운로드한 후 root 경로에 압축 해제<br/>
 [Download](https://drive.google.com/file/d/1O1t25EWJYa1cTiNv2g0Q61My-s-F9a8m/view?usp=share_link, "checkpoints")<br/>
-2. 아래 command line 입력 가상 환경 생성<br/>
+2. 아래 command line 입력하여 가상 환경 생성<br/>
 ```conda env create --file environment.yaml```<br/>
 3. ***3DFaceGenTexGen.ipynb*** 실행
