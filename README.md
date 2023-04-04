@@ -2,6 +2,7 @@
 
 ## 프로젝트 목적
 - 2D 입력 이미지(인물 사진)로부터 UV Texture를 추출할 때 발생하는 self-occlusion 문제를 개선하기 위함<br/>
+- 참고 논문: [FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction](https://arxiv.org/abs/2211.13874, "reference")<br/>
 
 <img src="https://user-images.githubusercontent.com/102565074/229715821-b90aa79e-15cc-4093-ae5f-2d7cd97ad5b2.png" width="300" height="300"/>
 
