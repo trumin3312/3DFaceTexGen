@@ -30,8 +30,9 @@
 |<img src="https://user-images.githubusercontent.com/102565074/229714389-e1cb75be-2d59-4a6c-82f1-178c6ff6dc58.png" width="300" height="300"/>|<img src="https://user-images.githubusercontent.com/102565074/229716483-8ae1c652-a964-44b3-b5e3-40fcee787695.png" width="300" height="300"/>|
 
 ## 데모
-1. 아래 링크에서 'checkpoints.zip'을 다운로드한 후 root 경로에 압축 해제<br/>
-[Download](https://drive.google.com/file/d/1O1t25EWJYa1cTiNv2g0Q61My-s-F9a8m/view?usp=share_link, "checkpoints")<br/>
+1. 아래 링크에서 ***checkpoints.zip***을 다운로드한 후 ***'3DFaceTexGen(root)'*** 경로에서 압축 해제<br/>
+[Download Link](https://drive.google.com/file/d/1O1t25EWJYa1cTiNv2g0Q61My-s-F9a8m/view?usp=share_link, "checkpoints")<br/>
 2. 아래 command line 입력하여 가상 환경 생성<br/>
 ```conda env create --file environment.yaml```<br/>
-3. ***3DFaceGenTexGen.ipynb*** 실행
+3. ***'inputs'*** 경로에 입력 이미지 파일을 넣고 ***3DFaceGenTexGen.ipynb*** 실행<br/>
+4. ***'outputs/(입력 이미지 파일명)'*** 경로 내 ***mesh.obj***를 MeshLab, 3D 뷰어 등으로 열어 결과 확인
